@@ -1,0 +1,27 @@
+{
+    "name":        "js-mockdata-registry",
+    "homepage":    "https://github.com/msg-systems/js-mockdata-registry",
+    "description": "JavaScript registry for mockdata",
+    "version":     "1.0.0",
+    "license":     "MIT",
+    "author": {
+        "name":    "Jochen Hoertreiter",
+        "email":   "jochen.hoertreiter@googlemail.com",
+        "url":     "https://github.com/msg-systems"
+    },
+    "keywords": [
+        "registry",
+        "mockdata"
+    ],
+    "repository": {
+        "type": "git",
+        "url":  "https://github.com/msg-systems/js-mockdata-registry.git"
+    },
+    "main": "./lib/mockdata-registry.js",
+    "bugs": {
+        "url":  "https://github.com/msg-systems/js-mockdata-registry/issues"
+    },
+    "engines": {
+        "node":                 ">=0.10.0"
+    }
+}
